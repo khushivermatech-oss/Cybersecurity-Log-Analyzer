@@ -1,0 +1,9 @@
+Nov 16 09:00:01 server sshd[101]: Accepted password for khushi from 192.168.1.10 port 51001 ssh2
+Nov 16 09:02:15 server sshd[102]: Failed password for admin from 203.0.113.25 port 51002 ssh2
+Nov 16 09:02:19 server sshd[103]: Failed password for admin from 203.0.113.25 port 51003 ssh2
+Nov 16 09:02:23 server sshd[104]: Failed password for root from 203.0.113.25 port 51004 ssh2
+Nov 16 09:05:10 server sshd[105]: Accepted publickey for student from 192.168.1.12 port 51005 ssh2
+Nov 16 09:07:44 server sshd[106]: Failed password for guest from 198.51.100.8 port 51006 ssh2
+Nov 16 09:08:01 server sshd[107]: Failed password for guest from 198.51.100.8 port 51007 ssh2
+Nov 16 09:10:31 server sshd[108]: Failed password for test from 198.51.100.8 port 51008 ssh2
+Nov 16 09:12:00 server sshd[109]: Accepted password for khushi from 192.168.1.10 port 51009 ssh2

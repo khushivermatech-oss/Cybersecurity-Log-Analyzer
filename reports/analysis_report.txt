@@ -1,0 +1,28 @@
+==========================================================
+CYBERSECURITY LOG ANALYSIS REPORT
+==========================================================
+Generated: 2026-11-16 14:16:05
+Total log lines: 9
+Successful login attempts: 3
+Failed login attempts: 6
+Alert threshold: 3 failed attempts per IP
+
+FAILED ATTEMPTS BY IP
+----------------------------------------------------------
+203.0.113.25         3 failed attempt(s)
+198.51.100.8         3 failed attempt(s)
+
+SUSPICIOUS IP ALERTS
+----------------------------------------------------------
+[ALERT] 198.51.100.8 generated 3 failed login attempts.
+[ALERT] 203.0.113.25 generated 3 failed login attempts.
+
+SUCCESSFUL LOGINS
+----------------------------------------------------------
+User: khushi, IP: 192.168.1.10, line: 1
+User: student, IP: 192.168.1.12, line: 5
+User: khushi, IP: 192.168.1.10, line: 9
+
+NOTE: This is a basic educational analyser using sample logs.
+An alert is an indicator for review, not proof of an attack.
+==========================================================
